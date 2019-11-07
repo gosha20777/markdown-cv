@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Georgy Perevozchikov's CV
 ---
 # Перевозчиков Георгий Павлович
 ML инженер, Backend разработчик
