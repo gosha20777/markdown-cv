@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Перевозчиков Георгий Павлович
-Physicist, Mathematician, Cambridge professor.
+ML инженер, Backend разработчик
 
 <div id="webaddress">
 <a href="+79991120777">+7 999 11 20777</a> 
