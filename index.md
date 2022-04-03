@@ -2,8 +2,8 @@
 layout: cv
 title: Georgy Perevozchikov's CV
 ---
-# Перевозчиков Георгий Павлович
-ML инженер, Backend разработчик
+# Georgy Perevozchikov
+ML Engineer, Backend Developer
 
 <div id="webaddress">
 <a href="+79991120777">+7 999 11 20777</a> 
@@ -12,170 +12,134 @@ ML инженер, Backend разработчик
 | <a href="https://gosha20777.github.io">https://gosha20777.github.io</a>
 </div>
 
-## Цель в жизни
+## Purpose in life
 
-Развивать себя и мир.
+Develop yourself and the world.
 
-## Образование
+## Education
 
 `2016-2018`
-__БФУ им. Канта, Калининград__
-- *Специальность:* Компьютерная безопасность и криптография
-- *Дополнительная специализация:* Компьютерные науки и программирование (Leipzig University, Германия, Лейпциг)
+__IKBFU Kant, Kaliningrad, Russia__
+- Bachelor’s degree in Cyber security
+
+`2017-2018`
+__Leipzig University, Leipzig, Germany__
+- ERASMUS+ courses in Computer Science
 
 `2018 - 2021`
-__МАИ, Москва__
+__MAI, Moscow, Russia__
 
-- *Специальность:* Прикладная математика и информатика
+- Bachelor’s degree in Computer Science
 
-`2021 - настоящее время`
-__МФТИ, Москва__
+`2021 - present`
+__MIPT, Moscow, Russia__
 
-- *Специальность:* Когнетивные технологии
+- Master’s degree in Cognitive Technology
 
-## Навыки
+## Skills
 
-### Компьютерные навыки
+### Hard Skills
 
-__Языки программирования__
+__Programming languages__
 - Golang, C\C++
 - Python, C#, JS (wasm), Java
 - SQL, PL-SQL
 
-__Технологии__
+__Frameworks__
 - Git, Git-LFS, SVN
 - OpenCV, Pandas, Numpy, Tensorflow, Keras, Pytorch, Scikit-Learn
 - nVidia APEX, nVidia DALI, nVidia CUDA, TensorRT, ONNX, OpenVINO
 - IO-Http, Flask, DJango, FastAPI
-- .NET Core 2.x/3.x/5.x, WPF, WCF, ASP.NET MVC, Entity Freamwork, ML.NET, Accord.NET
+- .NET Core 2.x/3.x/5.x, WPF, WCF, ASP.NET MVC, Entity Framework, ML.NET, Accord.NET
 - MS SQL, PgSQL, MySQL, MongoDB, RedisDB, ClickHouse, RabbitMQ
-- Docker, nVidia-Docker, Docker-Compose, CI/CD, ML-Ops, Openstack
+- Docker, nVidia-Docker, Docker-Compose, CI/CD, ML-Ops, Openstack, DVC, CML
 - Linux, Debian, RedHat Linux, Windows Server 2012 R2
 
-__Ключевые умения__
-- AI/ML/DL (CV, ASR, TTS, NLP, CNN, RNN, GRU, Gradient Bosting, Classical ML)
-- ML Optimizatuin, ML Deploy
+__Key Skills__
+- AI/ML/DL (CV, ASR, TTS, NLP, CNN, RNN, GRU, Gradient Boosting, Classical ML)
+- ML Optimization, ML Deploy
 - Highload Backend
 
-### Лидерские качества и командная работа
+### Soft Skills
 
-- Основатель Open Source организации [Lacmus Foundation](https://github.com/lacmus-foundation) (2018-настоящее время)
-- Многократный призер и участник олимпиад по программированию: Хакатоны, CTF, ICM ICPC, Я-Профессионал
-- Участие в Open Source сообществах (ODS, Avalonia, Mozilla, Canonical, Gnome Project)
+- Head of Open Source project [Lacmus Foundation](https://github.com/lacmus-foundation) (2018-present)
+- Multiple winner and participant of programming competitions: Hackathons, CTF, ICM ICPC, LetCode
+- Open Source contributor (ODS, Avalonia, Mozilla, Canonical, Gnome Project)
 
 
-## Научные публикации
-- [Разработка моделей глубокого машинного обучения для распознавания людей по аэрофотоснимкам в поисково-спасательных операциях](https://github.com/gosha20777/bachelor-diploma/releases/download/0.6.2/main.pdf)
+## Science Articles
+- [Development of Deep Learning Algorithms for Person Detection in Search and Rescue Operations (russian language)](https://github.com/gosha20777/bachelor-diploma/releases/download/0.6.2/main.pdf)
 
-## Интернет-статьи обо мне
+## News About Me
 - https://youtu.be/4QfOBTHEgJU
 - https://habr.com/ru/company/ods/blog/483616/
 - https://ai-news.ru/2018/11/kak_ya_keras_na_c_zapuskal.html
 
-## Опыт работы (4 года)
-`Ноябрь 2021 - настоящее время`
-__Эксперт, АО Гринатом (Росатом), Москва__
+## Experience (5 years) 
+`November 2021 - present  `
+__Senior Developer, Expert, Greenatom, Moscow__
 
-- Senior computer vision engineer (Python, C\C++)
-- Highload Backend разработка (Golang, Python)
-- Проектирование информационных систем
-- Разработка систем распознавания лиц
-- Разработка систем трехмерной реконструкции строящихся объектов по изображениям с БПЛА
-- Продукты:
-  - Система распознавания лиц ИС Росатом
+- Senior Computer Vision Engineer (Python, C\C++)
+- Highload Backend Developer (Golang, Python)
+- ML-Ops Engineer (DVC, CML)
+- Software Architect
+- Face Recognition Frameworks Development
+- 3D Reconstruction of Objects Based on UAV Images
 
 
-`Сентябрь 2019 - Ноябрь 2021`
-__Главный специалист, ГБУ МО Мособлгеотрест (МОГТ), Москва__
+`September 2019 - November 2021`
+__Senior Developer, FSBI Moscow Center for Cartography, Moscow__
 
-- Главный разработчик отдела компьютерного зрения
-- Highload Backend разработка (Golang, Python)
-- Разработка искусственных нейронных сетей и систем компьютерного зрения для распознавания спутниковых снимков и рендеринга карт (Python, C\C++)
-- Разработка ГИС систем
-- Продукты:
-  - https://rgis.mosreg.ru/ - геопортал Подмосковья (публичная карта РГИС)
+- Senior Computer Vision Engineer (Python, C\C++)
+- Highload Backend Developer (Golang, Python)
+- Applying Neural Networks for Satellite Imagery Recognition and Map Rendering (Python, C\C++)
+- GIS Developer
+- _Development Projects:_
+  - https://rgis.mosreg.ru/ - Moscow Public Map
 
-`Феараль 2019 - Сентябрь 2019`
-__Старший ML и Backend разработчик, Rocketlab, Москва__
+`February 2019 - September 2019`
+__Senior Developer, RocketLab, Moscow__
 
-- Разработчик отдела компьютерного зрения
-- Backend разработка (C\C++, C#)
-- Разработка искусственных нейронных сетей и их интеграция в браузеры (Python, C\C++, Wasm, JS, Emsdk)
-- Разработка систем рендеринга 3d сцен в браузерах (C\C++, Wsam, OpenGL, WebGL, Emsdk)
-- Портирование библиотеки компьютерного зрения OpenCV для работы в браузерах (С\С++, Wasm, JS, Emsdk)
-- Продукты:
-  - https://www.rocket-ar.com/ - платформа для дополненной реальности в браузере
+- Senior Computer Vision Engineer (Python, C\C++)
+- Backend Developer (C\C++, C#)
+- Neural Network Inference in Browsers (Python, C\C++, Wasm, JS, Emsdk)
+- Development of 3D Rendering Engines (C\C++, Wsam, OpenGL, WebGL, Emsdk)
+- Porting OpenCV to Web Assembly (С\С++, Wasm, JS, Emsdk)
+- _Development Projects:_
+  - https://www.rocket-ar.com/ - Augmented Reality Platform
 
-`Май 2018 - Февраль 2019`
-__ML разработчик, Backend разработчик, Coderaptor (skoltech project), Москва__
+`May 2018 - February 2019`
+__Middle Developer, Coderaptor, Moscow__
 
-- Разработчик отдела искусственного интеллекта и нейронных сетей
-- Backend разработка (C\C++, C#, Python)
-- Разработка искусственных нейронных сетей (Python)
-- Разработка расширений UE4 (C++)
-- Продукты:
-  - Многоязыкой голосовой ассистент (TTS, ASR, NLP, NLU)
-  - ML - Инверсная кинематика для UE4 (ML, CV)
-  - Разработчик расширений для UE 4 (C\C++)
-  - https://github.com/gosha20777/keras2cpp - легковесная библиотека для ускорения и запуска моделей нейронных сетей в нативном C++
+- Computer Vision Engineer (Python, C\C++)
+- Backend Developer (C\C++, C#, Python)
+- Neural Network Developer (Python)
+- UE4 Developer (C++)
+- _Development Projects:_
+  - End-to-End Voice Assistant (TTS, ASR, NLP, NLU)
+  - Applying ML for Inverse Kinematic (ML, CV, UE4)
+  - https://github.com/gosha20777/keras2cpp - a small library for running Keras models in a native C++
 
-`Декабрь 2017 - Май 2018`
-__ML разработчик, Backend разработчик, БФУ им Канта, Калининград__
+`February 2017 - May 2018`
+__Junior Developer, IKBFU Kant, Kaliningrad__
 
-- Backend ASP.NET разработка (C#)
-- Разработка Телеграмм-приложений (C#, Python)
-- Разработка искусственных нейронных сетей (Python)
-- Разработка распределенных Block-Chain систем (Python, JS)
-- Продукты:
-  - @KantIKBFU_Bot – телегам-бот на нейронной сети (NLP, SpiCy)
-  - @btc_banker_bot – биржа криптовалют btc, eth, golos
-  - Распределенная Block-Chain база данных учета баллов и активностей студентов БФУ
-  - Photo Tagging Web Api – сервис для распознавания графических образов (Python, Keras, image classification)
-  - Системы распознавания рентгеновских снимков (Python, Keras, object detection)
-  - http://eng.kantiana.ru/ – сайт (ASP.NET, C#)
+- Backend Developer (C#)
+- Telegram-bot Developer (C#, Python)
+- Neural Network Developer (Python)
+- _Development Projects:_
+  - @KantIKBFU_Bot – chatbot project with neural networks (NLP, SpiCy)
+  - @btc_banker_bot – cryptocurrency exchange service (btc, eth, python)
+  - Block-Chain data base for students management
+  - Parking Web Api – Car Recognition Service (Python, Keras, image classification)
+  - http://eng.kantiana.ru/ – University Web Page (ASP.NET, C#)
+  - https://github.com/gosha20777/NoteShrink – Computer Vision Algorithm to Shrink the Notes
 
-`Май 2017 - Январь 2018`
-__Удаленный ML разработчик, МГУ, Лаборатория компьютерного зрения, Калининград__
+`January 2016 - December 2016`
+__Juniour Developer, LAZARUS__
 
-- Разработка прикладного ПО (C#, WPF)
-- Open CV разработка (Assembly, C\C++, C#)
-- Продукты:
-  - C# имплементация библиотеки компьютерного зрения Open CV
-  - Система определения и диагностирования шизофрении у людей, по характеру движения глаз человека (Classical CV, Classical ML)
-
-`Июнь 2017 - Август 2017`
-__Младший Dev-Ops инженер, Почта России, Калининград__
-
-- Разработка прикладного ПО (C#, WPF)
-- Разработка Служб Windows (C#)
-- Dev-Ops (Ubuntu server, Windows Server)
-- Продукты:
-  - Система отслеживания доставки писем (С#, WPF)
-  - https://github.com/gosha20777/NoteShrink – небольшой проект сжимающий pdf документы (Python, C#)
-  
-
-`Январь 2017 - Апрель 2017`
-__Разработчик, ЯнтарьЭнерго, Калининград__
-
-- Разработка прикладного ПО (C\C++, Qt)
-- Продукты:
-  - CEngine – система анализа качества отливки деталей двигателей внутреннего сгорания (на основе распознавания изображений) и расчета технических характеристик ДВС (Classical CV, C\C++)
-
-`Октябрь 2016 - Февраль 2017`
-__Стажер, Младший Backend разработчик, KODE, Калининград__
-
-- C# Backend разработка (MS Azure)
-- Продукты:
-  - JustRentIt – мобильное приложение
-  - OnCall - CLM система
-
-`Январь 2016 - Декабрь 2016`
-__Разработчик, LAZARUS__
-
-- Lazarus разработка
-- продукты:
+- Open Source Developer:
   - Lazarus
-  - Indy (https://github.com/gosha20777/Indy) – расширение для Lazarus IDE для поддержки стека TCP/IP
+  - Indy (https://github.com/gosha20777/Indy) – TCP/IP Support in Lazarus IDE
 
 <!-- ### Footer
-Last updated: sep 2021 -->
+Last updated: apr 2022 -->
